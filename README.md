@@ -1,7 +1,20 @@
 ### Hi there 👋
 
-![Badges CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ralphg6)
+<br />
+ <div align="center">
+  <img
+    height="180em"
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ralphg6"
+  />
+</div>
 
+<br />
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ralphg6&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphg6&layout=compact&theme=dark" />
+</div>
+
+<br/>
 <!--
 **ralphg6/ralphg6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
