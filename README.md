@@ -3,9 +3,8 @@
 <br />
  <div align="center">
   <img
-    height="180em"
-    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ralphg6"
-  />
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ralphg6&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 </div>
 
 <br />
