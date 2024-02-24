@@ -14,6 +14,12 @@
 </div>
 
 <br/>
+
+
+## Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ralphg6&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **ralphg6/ralphg6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
